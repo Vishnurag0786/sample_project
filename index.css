@@ -360,7 +360,7 @@ video {
   }
 }
 
-.prorata-paragraph {
+.neon-paragraph {
   padding-right: 55px;
 }
 
@@ -946,7 +946,7 @@ video {
     padding-right: 30px !important;
   }
 
-  .prorata-paragraph {
+  .neon-paragraph {
     padding-right: 65px;
   }
 
@@ -1122,7 +1122,7 @@ td {
   padding-right: 30px !important;
 }
 
-.prorata-paragraph {
+.neon-paragraph {
   font-size: 12px !important;
 }
 
@@ -1707,7 +1707,7 @@ td {
     padding-right: 33px !important;
 }
 }
-.prorata-paragraph {
+.neon-paragraph {
     padding-right: 0px !important;
 }
 .footer-text-size{
