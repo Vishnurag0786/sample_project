@@ -171,36 +171,36 @@
 <body style="overflow-x:hidden !important;">
 
     <!-- <div class="cover"height="780px !important" > -->
-        <section class="navsec ">
-            <nav class="navbar navbar-expand-lg navbar-light fixed-top shadow-sm  displayNav faq-nav" id="mainNav">
-                <div class="container nav-container nav-align" id="section1">
-                    <!-- <a class="navbar-brand fw-bold" href="#page-top">XYZ</a> -->
-                    <!-- <a href=".."><img src="../public/images/logo.png" width="150px" class=""></a> -->
-                    <a href="index.html"><img src="images/neon.png" width="150px" height="62" alt="neon" class="neon"></a>
-                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
-                        data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false"
-                        aria-label="Toggle navigation" class="text-white">
-    
-                        <i class="bi-list"></i>
-                    </button>
-                    <div class="collapse navbar-collapse" id="navbarResponsive">
-                        <ul class="navbar-nav ms-auto ms-3 my-3 my-lg-0">
-                            <!-- <li class="nav-item"><a class="nav-link me-lg-3 text-white blogs" href="#">BLOGS</a></li> -->
-                            <li class="nav-item">
-                                <a class="nav-link me-lg-3 text-white faqs btnhover" href="faq.html">FAQ'S</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link me-lg-3 text-white faqs  indexfaq btnhover" href="#" style="float: left;">ABOUT US</a>
-                            </li>
-                            <li class="nav-item">
-                                <button class="btn btnhover" type="button" style= "color:white; background: linear-gradient(to bottom, rgb(91, 13, 227)  70%, rgb(129, 234, 234) 20%) !important">SIGN UP
-                                </button>
-                            </li>
-                        </ul>
-                    </div>
+    <section class="navsec ">
+        <nav class="navbar navbar-expand-lg navbar-light fixed-top shadow-sm  displayNav faq-nav" id="mainNav">
+            <div class="container nav-container nav-align" id="section1">
+                <!-- <a class="navbar-brand fw-bold" href="#page-top">XYZ</a> -->
+                <!-- <a href=".."><img src="../public/images/logo.png" width="150px" class=""></a> -->
+                <a href="index.php"><img src="images/neon.png" width="150px" height="62" alt="neon" class="neon"></a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false"
+                    aria-label="Toggle navigation" class="text-white">
+
+                    <i class="bi-list"></i>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarResponsive">
+                    <ul class="navbar-nav ms-auto ms-3 my-3 my-lg-0">
+                        <!-- <li class="nav-item"><a class="nav-link me-lg-3 text-white blogs" href="#">BLOGS</a></li> -->
+                        <li class="nav-item">
+                            <a class="nav-link me-lg-3 text-white faqs btnhover" href="faq.php">FAQ'S</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link me-lg-3 text-white faqs  indexfaq btnhover" href="contactus.php" style="float: left;">CONTACT</a>
+                        </li>
+                        <li class="nav-item">
+                            <button class="btn btnhover" type="button" style= "color:white; background: linear-gradient(to bottom, rgb(91, 13, 227)  70%, rgb(129, 234, 234) 20%) !important">SIGN UP
+                            </button>
+                        </li>
+                    </ul>
                 </div>
-            </nav>
-        </section>
+            </div>
+        </nav>
+    </section>
 
     <div class="container faq-container ">
         <div class="row mt-4 text-center faqresize "><b><span class="faq-size" style="color: #345ce1;">Frequently Asked Questions</span></b></div>
@@ -752,11 +752,11 @@
                         </button>
                     </div>
 
-                    <div class="col-md-3 ft-align mb-2 footer-text-size" style="margin-bottom:25px !important">
+                    <div class="col-md-3 ft-align mb-2 footer-text-size contact" style="margin-bottom:25px !important">
                         <i class="fa fa-phone-square" aria-hidden="true"></i> <a href="tel:+919740928670"
                             class="a-link">+91-9740928670</a><br>
                         <i class="fa fa-envelope-o" aria-hidden="true"></i> <a href="mailto:vishnurag9740@gmail.com"
-                            class="a-link">vishnurag9740@gmail.com</a><br>
+                            class="a-link mailfont">vishnurag9740@gmail.com</a><br>
                         <i class="fa-regular fa-address-card"></i> <a href="#" class="a-link">
                             Contact
                             Us
@@ -772,7 +772,7 @@
                             Privacy
                             Policy
                         </a><br>
-                        <!--<a href="../Home/ContactUs" class="text-decoration-none text-light mb-5">
+                        <!--<a href="../Home/contactus" class="text-decoration-none text-light mb-5">
                             Contact Us
                         </a><br>-->
                     </div>
@@ -786,7 +786,7 @@
                             Privacy
                             Policy
                         </a>
-                        <!--<a href="../Home/ContactUs" class="text-decoration-none text-light mb-5">
+                        <!--<a href="../Home/contactus" class="text-decoration-none text-light mb-5">
                             Contact Us
                         </a>-->
                     </div>
