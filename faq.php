@@ -190,7 +190,7 @@
                             <a class="nav-link me-lg-3 text-white faqs btnhover" href="faq.php">FAQ'S</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link me-lg-3 text-white faqs  indexfaq btnhover" href="contactus.php" style="float: left;">CONTACT</a>
+                            <a class="nav-link me-lg-3 text-white faqs  indexfaq btnhover" href="ContactUs.php" style="float: left;">CONTACT</a>
                         </li>
                         <li class="nav-item">
                             <button class="btn btnhover" type="button" style= "color:white; background: linear-gradient(to bottom, rgb(91, 13, 227)  70%, rgb(129, 234, 234) 20%) !important">SIGN UP
@@ -752,11 +752,11 @@
                         </button>
                     </div>
 
-                    <div class="col-md-3 ft-align mb-2 footer-text-size contact" style="margin-bottom:25px !important">
+                    <div class="col-md-3 ft-align mb-2 footer-text-size" style="margin-bottom:25px !important">
                         <i class="fa fa-phone-square" aria-hidden="true"></i> <a href="tel:+919740928670"
                             class="a-link">+91-9740928670</a><br>
                         <i class="fa fa-envelope-o" aria-hidden="true"></i> <a href="mailto:vishnurag9740@gmail.com"
-                            class="a-link mailfont">vishnurag9740@gmail.com</a><br>
+                            class="a-link">vishnurag9740@gmail.com</a><br>
                         <i class="fa-regular fa-address-card"></i> <a href="#" class="a-link">
                             Contact
                             Us
@@ -772,7 +772,7 @@
                             Privacy
                             Policy
                         </a><br>
-                        <!--<a href="../Home/contactus" class="text-decoration-none text-light mb-5">
+                        <!--<a href="../Home/ContactUs" class="text-decoration-none text-light mb-5">
                             Contact Us
                         </a><br>-->
                     </div>
@@ -786,7 +786,7 @@
                             Privacy
                             Policy
                         </a>
-                        <!--<a href="../Home/contactus" class="text-decoration-none text-light mb-5">
+                        <!--<a href="../Home/ContactUs" class="text-decoration-none text-light mb-5">
                             Contact Us
                         </a>-->
                     </div>
