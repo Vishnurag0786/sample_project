@@ -2612,3 +2612,15 @@ font-size: 20px !important;
     background: #719ad8;
     opacity: .9;
   }
+
+  @media(min-width: 768px){
+    .contact{
+        padding-left:0px !important;
+        padding-right:0px !important;
+       }
+    }
+    @media (min-width: 768px) and (max-width: 1024px){
+     .mailfont{
+        font-size:12px;
+     }
+     }
